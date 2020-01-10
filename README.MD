@@ -1,5 +1,5 @@
 
-#GoDFS
+# GoDFS
 
 This repo contains a distributed file system written in Go.
 
